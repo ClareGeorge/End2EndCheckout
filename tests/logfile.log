@@ -1,0 +1,263 @@
+2024-03-08 14:47:15,010 :INFO : Test Case: setup LINE-NO: 22 :Starting Test test_HomePage
+2024-03-08 14:47:15,011 :INFO : Test Case: setup LINE-NO: 22 :iCount :2
+2024-03-08 14:47:15,011 :INFO : Test Case: setup LINE-NO: 22 :Navigated to Home Page
+2024-03-08 14:47:15,066 :INFO : Test Case: setup LINE-NO: 22 :Entered Name Mary
+2024-03-08 14:47:15,116 :INFO : Test Case: setup LINE-NO: 22 :Entered Emailabc@abc.com
+2024-03-08 14:47:15,157 :INFO : Test Case: setup LINE-NO: 22 :Entered Passwordhello
+2024-03-08 14:47:15,190 :INFO : Test Case: setup LINE-NO: 22 :selected  Love4Icecreams 
+2024-03-08 14:47:15,234 :INFO : Test Case: setup LINE-NO: 22 :Entered genderFemale
+2024-03-08 14:47:15,287 :INFO : Test Case: setup LINE-NO: 22 : verifeidSuccessfulCompletion
+2024-03-08 14:48:15,705 :INFO : Test Case: setup LINE-NO: 22 :Starting Test test_HomePage
+2024-03-08 14:48:15,706 :INFO : Test Case: setup LINE-NO: 22 :iCount :2
+2024-03-08 14:48:15,706 :INFO : Test Case: setup LINE-NO: 22 :Navigated to Home Page
+2024-03-08 14:48:15,764 :INFO : Test Case: setup LINE-NO: 22 :Entered Name Mary
+2024-03-08 14:48:15,815 :INFO : Test Case: setup LINE-NO: 22 :Entered Emailabc@abc.com
+2024-03-08 14:48:15,856 :INFO : Test Case: setup LINE-NO: 22 :Entered Passwordhello
+2024-03-08 14:48:15,890 :INFO : Test Case: setup LINE-NO: 22 :selected  Love4Icecreams 
+2024-03-08 14:48:15,935 :INFO : Test Case: setup LINE-NO: 22 :Entered genderFemale
+2024-03-08 14:48:15,988 :INFO : Test Case: setup LINE-NO: 22 : verifeidSuccessfulCompletion
+2024-03-08 14:49:00,506 :INFO : Test Case: setup LINE-NO: 22 :Starting Test test_HomePage
+2024-03-08 14:49:00,507 :INFO : Test Case: setup LINE-NO: 22 :iCount :2
+2024-03-08 14:49:00,507 :INFO : Test Case: setup LINE-NO: 22 :Navigated to Home Page
+2024-03-08 14:49:00,562 :INFO : Test Case: setup LINE-NO: 22 :Entered Name Mary
+2024-03-08 14:49:00,612 :INFO : Test Case: setup LINE-NO: 22 :Entered Emailabc@abc.com
+2024-03-08 14:49:00,654 :INFO : Test Case: setup LINE-NO: 22 :Entered Passwordhello
+2024-03-08 14:49:00,689 :INFO : Test Case: setup LINE-NO: 22 :selected  Love4Icecreams 
+2024-03-08 14:49:00,741 :INFO : Test Case: setup LINE-NO: 22 :Entered genderFemale
+2024-03-08 14:49:00,803 :INFO : Test Case: setup LINE-NO: 22 : verifeidSuccessfulCompletion
+2024-03-08 14:52:32,462 :INFO : Test Case: setup LINE-NO: 22 :Starting Test test_HomePage
+2024-03-08 14:52:32,462 :INFO : Test Case: setup LINE-NO: 22 :iCount :2
+2024-03-08 14:52:32,462 :INFO : Test Case: setup LINE-NO: 22 :Navigated to Home Page
+2024-03-08 14:52:32,516 :INFO : Test Case: setup LINE-NO: 22 :Entered Name Mary
+2024-03-08 14:52:32,565 :INFO : Test Case: setup LINE-NO: 22 :Entered Emailabc@abc.com
+2024-03-08 14:52:32,607 :INFO : Test Case: setup LINE-NO: 22 :Entered Passwordhello
+2024-03-08 14:52:32,641 :INFO : Test Case: setup LINE-NO: 22 :selected  Love4Icecreams 
+2024-03-08 14:52:32,687 :INFO : Test Case: setup LINE-NO: 22 :Entered genderFemale
+2024-03-08 14:52:32,739 :INFO : Test Case: setup LINE-NO: 22 : verifeidSuccessfulCompletion
+2024-03-08 14:56:30,389 :INFO : Test Case: setup LINE-NO: 22 :Starting Test test_HomePage
+2024-03-08 14:56:30,389 :INFO : Test Case: setup LINE-NO: 22 :iCount :2
+2024-03-08 14:56:30,389 :INFO : Test Case: setup LINE-NO: 22 :Navigated to Home Page
+2024-03-08 14:56:30,445 :INFO : Test Case: setup LINE-NO: 22 :Entered Name Mary
+2024-03-08 14:56:30,494 :INFO : Test Case: setup LINE-NO: 22 :Entered Emailabc@abc.com
+2024-03-08 14:56:30,535 :INFO : Test Case: setup LINE-NO: 22 :Entered Passwordhello
+2024-03-08 14:56:30,569 :INFO : Test Case: setup LINE-NO: 22 :selected  Love4Icecreams 
+2024-03-08 14:56:30,615 :INFO : Test Case: setup LINE-NO: 22 :Entered genderFemale
+2024-03-08 14:56:30,671 :INFO : Test Case: setup LINE-NO: 22 : verifeidSuccessfulCompletion
+2024-03-08 14:56:30,859 :INFO : Test Case: setup LINE-NO: 22 :Starting Test test_HomePage
+2024-03-08 14:56:30,859 :INFO : Test Case: setup LINE-NO: 22 :iCount :2
+2024-03-08 14:56:30,859 :INFO : Test Case: setup LINE-NO: 22 :Navigated to Home Page
+2024-03-08 14:56:30,900 :INFO : Test Case: setup LINE-NO: 22 :Entered Name Jesus
+2024-03-08 14:56:30,954 :INFO : Test Case: setup LINE-NO: 22 :Entered EmailabcJesus@abc.com
+2024-03-08 14:56:30,998 :INFO : Test Case: setup LINE-NO: 22 :Entered PasswordhelloJesus
+2024-03-08 14:56:31,025 :INFO : Test Case: setup LINE-NO: 22 :selected  Love4Icecreams 
+2024-03-08 14:56:31,061 :INFO : Test Case: setup LINE-NO: 22 :Entered genderMale
+2024-03-08 14:56:31,095 :INFO : Test Case: setup LINE-NO: 22 : verifeidSuccessfulCompletion
+2024-03-08 14:56:31,250 :INFO : Test Case: setup LINE-NO: 22 : test_HomePage2
+2024-03-08 14:57:19,088 :INFO : Test Case: setup LINE-NO: 22 :Starting Test test_HomePage
+2024-03-08 14:57:19,088 :INFO : Test Case: setup LINE-NO: 22 :iCount :2
+2024-03-08 14:57:19,088 :INFO : Test Case: setup LINE-NO: 22 :Navigated to Home Page
+2024-03-08 14:57:19,145 :INFO : Test Case: setup LINE-NO: 22 :Entered Name Mary
+2024-03-08 14:57:19,197 :INFO : Test Case: setup LINE-NO: 22 :Entered Emailabc@abc.com
+2024-03-08 14:57:19,238 :INFO : Test Case: setup LINE-NO: 22 :Entered Passwordhello
+2024-03-08 14:57:19,271 :INFO : Test Case: setup LINE-NO: 22 :selected  Love4Icecreams 
+2024-03-08 14:57:19,319 :INFO : Test Case: setup LINE-NO: 22 :Entered genderFemale
+2024-03-08 14:57:19,375 :INFO : Test Case: setup LINE-NO: 22 : verifeidSuccessfulCompletion
+2024-03-08 14:57:19,377 :INFO : Test Case: setup LINE-NO: 22 :Starting Test test_HomePage
+2024-03-08 14:57:19,377 :INFO : Test Case: setup LINE-NO: 22 :iCount :2
+2024-03-08 14:57:19,377 :INFO : Test Case: setup LINE-NO: 22 :Navigated to Home Page
+2024-03-08 14:57:19,416 :INFO : Test Case: setup LINE-NO: 22 :Entered Name Jesus
+2024-03-08 14:57:19,473 :INFO : Test Case: setup LINE-NO: 22 :Entered EmailabcJesus@abc.com
+2024-03-08 14:57:19,518 :INFO : Test Case: setup LINE-NO: 22 :Entered PasswordhelloJesus
+2024-03-08 14:57:19,544 :INFO : Test Case: setup LINE-NO: 22 :selected  Love4Icecreams 
+2024-03-08 14:57:19,580 :INFO : Test Case: setup LINE-NO: 22 :Entered genderMale
+2024-03-08 14:57:19,614 :INFO : Test Case: setup LINE-NO: 22 : verifeidSuccessfulCompletion
+2024-03-08 14:57:19,616 :INFO : Test Case: setup LINE-NO: 22 : test_HomePage2
+2024-03-09 16:06:19,299 :INFO : Test Case: setup LINE-NO: 21 :Starting Test test_HomePage
+2024-03-09 16:06:38,515 :INFO : Test Case: setup LINE-NO: 21 :Navigated to Home Page
+2024-03-09 16:06:41,993 :INFO : Test Case: setup LINE-NO: 21 :Entered Name Mary
+2024-03-09 16:06:43,810 :INFO : Test Case: setup LINE-NO: 21 :Entered Emailabc@abc.com
+2024-03-09 16:06:45,717 :INFO : Test Case: setup LINE-NO: 21 :Entered Passwordhello
+2024-03-09 16:06:46,797 :INFO : Test Case: setup LINE-NO: 21 :selected  Love4Icecreams 
+2024-03-09 16:06:47,765 :INFO : Test Case: setup LINE-NO: 21 :Entered genderFemale
+2024-03-09 16:06:49,877 :INFO : Test Case: setup LINE-NO: 21 : verifeidSuccessfulCompletion
+2024-03-09 16:24:02,777 :INFO : Test Case: setup LINE-NO: 21 :Starting Test test_HomePage
+2024-03-09 16:24:55,474 :INFO : Test Case: setup LINE-NO: 21 :Starting Test test_HomePage
+2024-03-09 16:24:55,474 :INFO : Test Case: setup LINE-NO: 21 :Navigated to Home Page
+2024-03-09 16:24:55,534 :INFO : Test Case: setup LINE-NO: 21 :Entered Name Mary
+2024-03-09 16:24:55,584 :INFO : Test Case: setup LINE-NO: 21 :Entered Emailabc@abc.com
+2024-03-09 16:24:55,629 :INFO : Test Case: setup LINE-NO: 21 :Entered Passwordhello
+2024-03-09 16:24:55,664 :INFO : Test Case: setup LINE-NO: 21 :selected  Love4Icecreams 
+2024-03-09 16:24:55,711 :INFO : Test Case: setup LINE-NO: 21 :Entered genderFemale
+2024-03-09 16:24:55,769 :INFO : Test Case: setup LINE-NO: 21 : verifeidSuccessfulCompletion
+2024-03-09 16:24:55,975 :INFO : Test Case: setup LINE-NO: 21 :Starting Test test_HomePage
+2024-03-09 16:24:55,975 :INFO : Test Case: setup LINE-NO: 21 :Navigated to Home Page
+2024-03-09 16:24:56,016 :INFO : Test Case: setup LINE-NO: 21 :Entered Name Jesus
+2024-03-09 16:24:56,072 :INFO : Test Case: setup LINE-NO: 21 :Entered EmailabcJesus@abc.com
+2024-03-09 16:24:56,115 :INFO : Test Case: setup LINE-NO: 21 :Entered PasswordhelloJesus
+2024-03-09 16:24:56,143 :INFO : Test Case: setup LINE-NO: 21 :selected  Love4Icecreams 
+2024-03-09 16:24:56,177 :INFO : Test Case: setup LINE-NO: 21 :Entered genderMale
+2024-03-09 16:24:56,210 :INFO : Test Case: setup LINE-NO: 21 : verifeidSuccessfulCompletion
+2024-03-09 16:24:56,374 :INFO : Test Case: setup LINE-NO: 21 : test_HomePage2
+2024-03-09 17:28:14,487 :INFO : Test Case: setup LINE-NO: 21 :Starting Test test_HomePage
+2024-03-09 17:28:14,487 :INFO : Test Case: setup LINE-NO: 21 :Navigated to Home Page
+2024-03-09 17:28:14,539 :INFO : Test Case: setup LINE-NO: 21 :Entered Name Mary
+2024-03-09 17:28:14,587 :INFO : Test Case: setup LINE-NO: 21 :Entered Emailabc@abc.com
+2024-03-09 17:28:14,627 :INFO : Test Case: setup LINE-NO: 21 :Entered Passwordhello
+2024-03-09 17:28:14,661 :INFO : Test Case: setup LINE-NO: 21 :selected  Love4Icecreams 
+2024-03-09 17:28:14,710 :INFO : Test Case: setup LINE-NO: 21 :Entered genderFemale
+2024-03-09 17:28:14,771 :INFO : Test Case: setup LINE-NO: 21 : verifeidSuccessfulCompletion
+2024-03-09 17:28:15,087 :INFO : Test Case: setup LINE-NO: 21 :Starting Test test_HomePage
+2024-03-09 17:28:15,087 :INFO : Test Case: setup LINE-NO: 21 :Navigated to Home Page
+2024-03-09 17:28:15,130 :INFO : Test Case: setup LINE-NO: 21 :Entered Name Jesus
+2024-03-09 17:28:15,180 :INFO : Test Case: setup LINE-NO: 21 :Entered EmailabcJesus@abc.com
+2024-03-09 17:28:15,223 :INFO : Test Case: setup LINE-NO: 21 :Entered PasswordhelloJesus
+2024-03-09 17:28:15,250 :INFO : Test Case: setup LINE-NO: 21 :selected  Love4Icecreams 
+2024-03-09 17:28:15,284 :INFO : Test Case: setup LINE-NO: 21 :Entered genderMale
+2024-03-09 17:28:15,318 :INFO : Test Case: setup LINE-NO: 21 : verifeidSuccessfulCompletion
+2024-03-09 17:28:15,577 :INFO : Test Case: setup LINE-NO: 21 : test_HomePage2
+2024-03-09 17:34:44,307 :INFO : Test Case: setup LINE-NO: 21 :Starting Test test_HomePage
+2024-03-09 17:34:44,307 :INFO : Test Case: setup LINE-NO: 21 :Navigated to Home Page
+2024-03-09 17:34:44,364 :INFO : Test Case: setup LINE-NO: 21 :Entered Name Mary
+2024-03-09 17:34:44,411 :INFO : Test Case: setup LINE-NO: 21 :Entered Emailabc@abc.com
+2024-03-09 17:34:44,451 :INFO : Test Case: setup LINE-NO: 21 :Entered Passwordhello
+2024-03-09 17:34:44,485 :INFO : Test Case: setup LINE-NO: 21 :selected  Love4Icecreams 
+2024-03-09 17:34:44,528 :INFO : Test Case: setup LINE-NO: 21 :Entered genderFemale
+2024-03-09 17:34:44,584 :INFO : Test Case: setup LINE-NO: 21 : verifeidSuccessfulCompletion
+2024-03-09 17:34:44,923 :INFO : Test Case: setup LINE-NO: 21 :Starting Test test_HomePage
+2024-03-09 17:34:44,923 :INFO : Test Case: setup LINE-NO: 21 :Navigated to Home Page
+2024-03-09 17:34:44,965 :INFO : Test Case: setup LINE-NO: 21 :Entered Name Jesus
+2024-03-09 17:34:45,017 :INFO : Test Case: setup LINE-NO: 21 :Entered EmailabcJesus@abc.com
+2024-03-09 17:34:45,059 :INFO : Test Case: setup LINE-NO: 21 :Entered PasswordhelloJesus
+2024-03-09 17:34:45,086 :INFO : Test Case: setup LINE-NO: 21 :selected  Love4Icecreams 
+2024-03-09 17:34:45,121 :INFO : Test Case: setup LINE-NO: 21 :Entered genderMale
+2024-03-09 17:34:45,154 :INFO : Test Case: setup LINE-NO: 21 : verifeidSuccessfulCompletion
+2024-03-09 17:34:45,411 :INFO : Test Case: setup LINE-NO: 21 : test_HomePage2
+2024-03-09 17:35:27,245 :INFO : Test Case: setup LINE-NO: 21 :Starting Test test_HomePage
+2024-03-09 17:35:27,246 :INFO : Test Case: setup LINE-NO: 21 :Navigated to Home Page
+2024-03-09 17:35:27,302 :INFO : Test Case: setup LINE-NO: 21 :Entered Name Mary
+2024-03-09 17:35:27,352 :INFO : Test Case: setup LINE-NO: 21 :Entered Emailabc@abc.com
+2024-03-09 17:35:27,392 :INFO : Test Case: setup LINE-NO: 21 :Entered Passwordhello
+2024-03-09 17:35:27,426 :INFO : Test Case: setup LINE-NO: 21 :selected  Love4Icecreams 
+2024-03-09 17:35:27,472 :INFO : Test Case: setup LINE-NO: 21 :Entered genderFemale
+2024-03-09 17:35:27,524 :INFO : Test Case: setup LINE-NO: 21 : verifeidSuccessfulCompletion
+2024-03-09 17:35:27,863 :INFO : Test Case: setup LINE-NO: 21 :Starting Test test_HomePage
+2024-03-09 17:35:27,863 :INFO : Test Case: setup LINE-NO: 21 :Navigated to Home Page
+2024-03-09 17:35:27,905 :INFO : Test Case: setup LINE-NO: 21 :Entered Name Jesus
+2024-03-09 17:35:27,957 :INFO : Test Case: setup LINE-NO: 21 :Entered EmailabcJesus@abc.com
+2024-03-09 17:35:27,999 :INFO : Test Case: setup LINE-NO: 21 :Entered PasswordhelloJesus
+2024-03-09 17:35:28,026 :INFO : Test Case: setup LINE-NO: 21 :selected  Love4Icecreams 
+2024-03-09 17:35:28,062 :INFO : Test Case: setup LINE-NO: 21 :Entered genderMale
+2024-03-09 17:35:28,096 :INFO : Test Case: setup LINE-NO: 21 : verifeidSuccessfulCompletion
+2024-03-09 17:35:28,350 :INFO : Test Case: setup LINE-NO: 21 : test_HomePage2
+2024-03-09 17:36:41,902 :INFO : Test Case: setup LINE-NO: 21 :Starting Test test_HomePage
+2024-03-09 17:36:41,902 :INFO : Test Case: setup LINE-NO: 21 :Navigated to Home Page
+2024-03-09 17:36:41,960 :INFO : Test Case: setup LINE-NO: 21 :Entered Name Mary
+2024-03-09 17:36:42,007 :INFO : Test Case: setup LINE-NO: 21 :Entered Emailabc@abc.com
+2024-03-09 17:36:42,048 :INFO : Test Case: setup LINE-NO: 21 :Entered Passwordhello
+2024-03-09 17:36:42,080 :INFO : Test Case: setup LINE-NO: 21 :selected  Love4Icecreams 
+2024-03-09 17:36:42,124 :INFO : Test Case: setup LINE-NO: 21 :Entered genderFemale
+2024-03-09 17:36:42,180 :INFO : Test Case: setup LINE-NO: 21 : verifeidSuccessfulCompletion
+2024-03-09 17:36:42,659 :INFO : Test Case: setup LINE-NO: 21 :Starting Test test_HomePage
+2024-03-09 17:36:42,659 :INFO : Test Case: setup LINE-NO: 21 :Navigated to Home Page
+2024-03-09 17:36:42,698 :INFO : Test Case: setup LINE-NO: 21 :Entered Name Jesus
+2024-03-09 17:36:42,748 :INFO : Test Case: setup LINE-NO: 21 :Entered EmailabcJesus@abc.com
+2024-03-09 17:36:42,790 :INFO : Test Case: setup LINE-NO: 21 :Entered PasswordhelloJesus
+2024-03-09 17:36:42,822 :INFO : Test Case: setup LINE-NO: 21 :selected  Love4Icecreams 
+2024-03-09 17:36:42,845 :INFO : Test Case: setup LINE-NO: 21 :Entered genderMale
+2024-03-09 17:36:42,879 :INFO : Test Case: setup LINE-NO: 21 : verifeidSuccessfulCompletion
+2024-03-09 17:36:43,340 :INFO : Test Case: setup LINE-NO: 21 : test_HomePage2
+2024-03-09 17:38:19,685 :INFO : Test Case: setup LINE-NO: 21 :Starting Test test_HomePage
+2024-03-09 17:38:19,685 :INFO : Test Case: setup LINE-NO: 21 :Navigated to Home Page
+2024-03-09 17:38:19,740 :INFO : Test Case: setup LINE-NO: 21 :Entered Name Mary
+2024-03-09 17:38:19,789 :INFO : Test Case: setup LINE-NO: 21 :Entered Emailabc@abc.com
+2024-03-09 17:38:19,830 :INFO : Test Case: setup LINE-NO: 21 :Entered Passwordhello
+2024-03-09 17:38:19,862 :INFO : Test Case: setup LINE-NO: 21 :selected  Love4Icecreams 
+2024-03-09 17:38:19,907 :INFO : Test Case: setup LINE-NO: 21 :Entered genderFemale
+2024-03-09 17:38:19,961 :INFO : Test Case: setup LINE-NO: 21 : verifeidSuccessfulCompletion
+2024-03-09 17:38:20,563 :INFO : Test Case: setup LINE-NO: 21 :Starting Test test_HomePage
+2024-03-09 17:38:20,563 :INFO : Test Case: setup LINE-NO: 21 :Navigated to Home Page
+2024-03-09 17:38:20,600 :INFO : Test Case: setup LINE-NO: 21 :Entered Name Jesus
+2024-03-09 17:38:20,652 :INFO : Test Case: setup LINE-NO: 21 :Entered EmailabcJesus@abc.com
+2024-03-09 17:38:20,696 :INFO : Test Case: setup LINE-NO: 21 :Entered PasswordhelloJesus
+2024-03-09 17:38:20,726 :INFO : Test Case: setup LINE-NO: 21 :selected  Love4Icecreams 
+2024-03-09 17:38:20,750 :INFO : Test Case: setup LINE-NO: 21 :Entered genderMale
+2024-03-09 17:38:20,787 :INFO : Test Case: setup LINE-NO: 21 : verifeidSuccessfulCompletion
+2024-03-09 17:38:21,038 :INFO : Test Case: setup LINE-NO: 21 : test_HomePage2
+2024-03-11 16:26:08,954 :INFO : Test Case: setup LINE-NO: 21 :Starting Test test_HomePage
+2024-03-11 16:26:08,954 :INFO : Test Case: setup LINE-NO: 21 :Navigated to Home Page
+2024-03-11 16:26:09,015 :INFO : Test Case: setup LINE-NO: 21 :Entered Name Mary
+2024-03-11 16:26:09,066 :INFO : Test Case: setup LINE-NO: 21 :Entered Emailabc@abc.com
+2024-03-11 16:26:09,112 :INFO : Test Case: setup LINE-NO: 21 :Entered Passwordhello
+2024-03-11 16:26:09,147 :INFO : Test Case: setup LINE-NO: 21 :selected  Love4Icecreams 
+2024-03-11 16:26:09,194 :INFO : Test Case: setup LINE-NO: 21 :Entered genderFemale
+2024-03-11 16:26:09,253 :INFO : Test Case: setup LINE-NO: 21 : verifeidSuccessfulCompletion
+2024-03-11 16:26:09,798 :INFO : Test Case: setup LINE-NO: 21 :Starting Test test_HomePage
+2024-03-11 16:26:09,798 :INFO : Test Case: setup LINE-NO: 21 :Navigated to Home Page
+2024-03-11 16:26:09,836 :INFO : Test Case: setup LINE-NO: 21 :Entered Name Jesus
+2024-03-11 16:26:09,887 :INFO : Test Case: setup LINE-NO: 21 :Entered EmailJesus@abc.com
+2024-03-11 16:26:09,932 :INFO : Test Case: setup LINE-NO: 21 :Entered PasswordhelloJesus
+2024-03-11 16:26:09,962 :INFO : Test Case: setup LINE-NO: 21 :selected  Love4Icecreams 
+2024-03-11 16:26:09,986 :INFO : Test Case: setup LINE-NO: 21 :Entered genderMale
+2024-03-11 16:26:10,026 :INFO : Test Case: setup LINE-NO: 21 : verifeidSuccessfulCompletion
+2024-03-11 16:26:10,289 :INFO : Test Case: setup LINE-NO: 21 : test_HomePage2
+2024-03-17 18:30:13,152 :INFO : Test Case: setup LINE-NO: 21 :Starting Test test_HomePage
+2024-03-17 18:30:19,466 :INFO : Test Case: setup LINE-NO: 21 :Navigated to Home Page
+2024-03-17 18:33:33,408 :INFO : Test Case: setup LINE-NO: 21 :Starting Test test_HomePage
+2024-03-17 18:33:33,409 :INFO : Test Case: setup LINE-NO: 21 :Navigated to Home Page
+2024-03-17 18:33:33,468 :INFO : Test Case: setup LINE-NO: 21 :Entered Name Mary
+2024-03-17 18:33:33,507 :INFO : Test Case: setup LINE-NO: 21 :Entered Emailabc@abc.com
+2024-03-17 18:33:33,546 :INFO : Test Case: setup LINE-NO: 21 :Entered Passwordhello
+2024-03-17 18:33:33,582 :INFO : Test Case: setup LINE-NO: 21 :selected  Love4Icecreams 
+2024-03-17 18:33:33,638 :INFO : Test Case: setup LINE-NO: 21 :Entered genderFemale
+2024-03-17 18:35:06,473 :INFO : Test Case: setup LINE-NO: 21 :Starting Test test_HomePage
+2024-03-17 18:35:06,473 :INFO : Test Case: setup LINE-NO: 21 :Navigated to Home Page
+2024-03-17 18:35:06,527 :INFO : Test Case: setup LINE-NO: 21 :Entered Name Mary
+2024-03-17 18:35:06,580 :INFO : Test Case: setup LINE-NO: 21 :Entered Emailabc@abc.com
+2024-03-17 18:35:06,621 :INFO : Test Case: setup LINE-NO: 21 :Entered Passwordhello
+2024-03-17 18:35:06,654 :INFO : Test Case: setup LINE-NO: 21 :selected  Love4Icecreams 
+2024-03-17 18:35:06,697 :INFO : Test Case: setup LINE-NO: 21 :Entered genderFemale
+2024-03-17 18:35:06,750 :INFO : Test Case: setup LINE-NO: 21 : verifeidSuccessfulCompletion
+2024-03-17 18:35:07,312 :INFO : Test Case: setup LINE-NO: 21 :Starting Test test_HomePage
+2024-03-17 18:35:07,312 :INFO : Test Case: setup LINE-NO: 21 :Navigated to Home Page
+2024-03-17 18:35:07,351 :INFO : Test Case: setup LINE-NO: 21 :Entered Name Jesus
+2024-03-17 18:35:07,397 :INFO : Test Case: setup LINE-NO: 21 :Entered EmailJesus@abc.com
+2024-03-17 18:35:07,449 :INFO : Test Case: setup LINE-NO: 21 :Entered PasswordhelloJesus
+2024-03-17 18:35:07,492 :INFO : Test Case: setup LINE-NO: 21 :selected  Love4Icecreams 
+2024-03-17 18:35:07,522 :INFO : Test Case: setup LINE-NO: 21 :Entered genderMale
+2024-03-17 18:35:07,566 :INFO : Test Case: setup LINE-NO: 21 : verifeidSuccessfulCompletion
+2024-03-17 18:35:07,820 :INFO : Test Case: setup LINE-NO: 21 : test_HomePage2
+2024-03-17 18:35:28,628 :INFO : Test Case: setup LINE-NO: 21 :Starting Test test_HomePage
+2024-03-17 18:35:28,629 :INFO : Test Case: setup LINE-NO: 21 :Navigated to Home Page
+2024-03-17 18:35:28,686 :INFO : Test Case: setup LINE-NO: 21 :Entered Name Mary
+2024-03-17 18:35:28,735 :INFO : Test Case: setup LINE-NO: 21 :Entered Emailabc@abc.com
+2024-03-17 18:35:28,777 :INFO : Test Case: setup LINE-NO: 21 :Entered Passwordhello
+2024-03-17 18:35:28,812 :INFO : Test Case: setup LINE-NO: 21 :selected  Love4Icecreams 
+2024-03-17 18:35:28,861 :INFO : Test Case: setup LINE-NO: 21 :Entered genderFemale
+2024-03-17 18:48:29,262 :INFO : Test Case: setup LINE-NO: 21 :Starting Test test_HomePage
+2024-03-17 18:48:35,120 :INFO : Test Case: setup LINE-NO: 21 :Navigated to Home Page
+2024-03-17 18:48:46,040 :INFO : Test Case: setup LINE-NO: 21 :Entered Name Mary
+2024-03-17 18:55:16,713 :INFO : Test Case: setup LINE-NO: 21 :Starting Test test_HomePage
+2024-03-17 18:55:19,011 :INFO : Test Case: setup LINE-NO: 21 :Navigated to Home Page
+2024-03-17 18:55:19,591 :INFO : Test Case: setup LINE-NO: 21 :Entered Name Mary
+2024-03-17 18:55:20,218 :INFO : Test Case: setup LINE-NO: 21 :Entered Emailabc@abc.com
+2024-03-17 18:55:21,279 :INFO : Test Case: setup LINE-NO: 21 :Entered Passwordhello
+2024-03-17 18:55:22,498 :INFO : Test Case: setup LINE-NO: 21 :selected  Love4Icecreams 
+2024-03-17 18:55:24,518 :INFO : Test Case: setup LINE-NO: 21 :Entered genderFemale
+2024-03-17 18:55:30,784 :INFO : Test Case: setup LINE-NO: 21 : verifeidSuccessfulCompletion
+2024-03-18 11:07:10,764 :INFO : Test Case: setup LINE-NO: 21 :Starting Test test_HomePage
+2024-03-18 11:07:10,764 :INFO : Test Case: setup LINE-NO: 21 :Navigated to Home Page
+2024-03-18 11:07:10,818 :INFO : Test Case: setup LINE-NO: 21 :Entered Name Mary
+2024-03-18 11:07:10,866 :INFO : Test Case: setup LINE-NO: 21 :Entered Emailabc@abc.com
+2024-03-18 11:07:10,908 :INFO : Test Case: setup LINE-NO: 21 :Entered Passwordhello
+2024-03-18 11:07:10,944 :INFO : Test Case: setup LINE-NO: 21 :selected  Love4Icecreams 
+2024-03-18 11:07:10,995 :INFO : Test Case: setup LINE-NO: 21 :Entered genderFemale
+2024-03-18 11:07:11,057 :INFO : Test Case: setup LINE-NO: 21 : verifeidSuccessfulCompletion
+2024-03-18 11:07:11,627 :INFO : Test Case: setup LINE-NO: 21 :Starting Test test_HomePage
+2024-03-18 11:07:11,627 :INFO : Test Case: setup LINE-NO: 21 :Navigated to Home Page
+2024-03-18 11:07:11,674 :INFO : Test Case: setup LINE-NO: 21 :Entered Name Jesus
+2024-03-18 11:07:11,731 :INFO : Test Case: setup LINE-NO: 21 :Entered EmailJesus@abc.com
+2024-03-18 11:07:11,777 :INFO : Test Case: setup LINE-NO: 21 :Entered PasswordhelloJesus
+2024-03-18 11:07:11,809 :INFO : Test Case: setup LINE-NO: 21 :selected  Love4Icecreams 
+2024-03-18 11:07:11,832 :INFO : Test Case: setup LINE-NO: 21 :Entered genderMale
+2024-03-18 11:07:11,868 :INFO : Test Case: setup LINE-NO: 21 : verifeidSuccessfulCompletion
+2024-03-18 11:07:12,120 :INFO : Test Case: setup LINE-NO: 21 : test_HomePage2

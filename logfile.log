@@ -1,0 +1,50 @@
+2024-03-08 15:05:04,805 :INFO : Test Case: setup LINE-NO: 22 :Starting Test test_HomePage
+2024-03-08 15:05:04,805 :INFO : Test Case: setup LINE-NO: 22 :iCount :2
+2024-03-08 15:05:04,805 :INFO : Test Case: setup LINE-NO: 22 :Navigated to Home Page
+2024-03-08 15:05:04,863 :INFO : Test Case: setup LINE-NO: 22 :Entered Name Mary
+2024-03-08 15:05:04,916 :INFO : Test Case: setup LINE-NO: 22 :Entered Emailabc@abc.com
+2024-03-08 15:05:04,958 :INFO : Test Case: setup LINE-NO: 22 :Entered Passwordhello
+2024-03-08 15:05:04,994 :INFO : Test Case: setup LINE-NO: 22 :selected  Love4Icecreams 
+2024-03-08 15:05:05,040 :INFO : Test Case: setup LINE-NO: 22 :Entered genderFemale
+2024-03-08 15:05:05,099 :INFO : Test Case: setup LINE-NO: 22 : verifeidSuccessfulCompletion
+2024-03-08 15:05:05,290 :INFO : Test Case: setup LINE-NO: 22 :Starting Test test_HomePage
+2024-03-08 15:05:05,291 :INFO : Test Case: setup LINE-NO: 22 :iCount :2
+2024-03-08 15:05:05,291 :INFO : Test Case: setup LINE-NO: 22 :Navigated to Home Page
+2024-03-08 15:05:05,338 :INFO : Test Case: setup LINE-NO: 22 :Entered Name Jesus
+2024-03-08 15:05:05,396 :INFO : Test Case: setup LINE-NO: 22 :Entered EmailabcJesus@abc.com
+2024-03-08 15:05:05,447 :INFO : Test Case: setup LINE-NO: 22 :Entered PasswordhelloJesus
+2024-03-08 15:05:05,475 :INFO : Test Case: setup LINE-NO: 22 :selected  Love4Icecreams 
+2024-03-08 15:05:05,510 :INFO : Test Case: setup LINE-NO: 22 :Entered genderMale
+2024-03-08 15:05:05,545 :INFO : Test Case: setup LINE-NO: 22 : verifeidSuccessfulCompletion
+2024-03-08 15:05:05,711 :INFO : Test Case: setup LINE-NO: 22 : test_HomePage2
+2024-03-08 15:05:10,593 :INFO : Test Case: setup LINE-NO: 22 : test_SampleClass2
+2024-03-08 15:05:10,593 :INFO : Test Case: setup LINE-NO: 22 : test_SampleClass2
+2024-03-08 15:05:10,593 :INFO : Test Case: setup LINE-NO: 22 :iCount :2
+2024-03-08 15:05:10,593 :INFO : Test Case: setup LINE-NO: 22 :iCount :2
+2024-03-08 15:05:15,432 :INFO : Test Case: setup LINE-NO: 22 :Starting Test test_e2e
+2024-03-08 15:05:15,432 :INFO : Test Case: setup LINE-NO: 22 :Starting Test test_e2e
+2024-03-08 15:05:15,432 :INFO : Test Case: setup LINE-NO: 22 :Starting Test test_e2e
+2024-03-08 15:05:15,432 :INFO : Test Case: setup LINE-NO: 22 :iCount :2
+2024-03-08 15:05:15,432 :INFO : Test Case: setup LINE-NO: 22 :iCount :2
+2024-03-08 15:05:15,432 :INFO : Test Case: setup LINE-NO: 22 :iCount :2
+2024-03-08 15:05:17,689 :INFO : Test Case: setup LINE-NO: 22 :Navigated to Search Page
+2024-03-08 15:05:17,689 :INFO : Test Case: setup LINE-NO: 22 :Navigated to Search Page
+2024-03-08 15:05:17,689 :INFO : Test Case: setup LINE-NO: 22 :Navigated to Search Page
+2024-03-08 15:05:17,778 :INFO : Test Case: setup LINE-NO: 22 :Added Blackberry to cart
+2024-03-08 15:05:17,778 :INFO : Test Case: setup LINE-NO: 22 :Added Blackberry to cart
+2024-03-08 15:05:17,778 :INFO : Test Case: setup LINE-NO: 22 :Added Blackberry to cart
+2024-03-08 15:05:17,818 :INFO : Test Case: setup LINE-NO: 22 :Navigated to Cart/Checkout Page
+2024-03-08 15:05:17,818 :INFO : Test Case: setup LINE-NO: 22 :Navigated to Cart/Checkout Page
+2024-03-08 15:05:17,818 :INFO : Test Case: setup LINE-NO: 22 :Navigated to Cart/Checkout Page
+2024-03-08 15:05:17,857 :INFO : Test Case: setup LINE-NO: 22 :Navigated to Shipping/Confirmation Page
+2024-03-08 15:05:17,857 :INFO : Test Case: setup LINE-NO: 22 :Navigated to Shipping/Confirmation Page
+2024-03-08 15:05:17,857 :INFO : Test Case: setup LINE-NO: 22 :Navigated to Shipping/Confirmation Page
+2024-03-08 15:05:22,988 :INFO : Test Case: setup LINE-NO: 22 :Shipping/Confirmation Page: Selected Shipping location
+2024-03-08 15:05:22,988 :INFO : Test Case: setup LINE-NO: 22 :Shipping/Confirmation Page: Selected Shipping location
+2024-03-08 15:05:22,988 :INFO : Test Case: setup LINE-NO: 22 :Shipping/Confirmation Page: Selected Shipping location
+2024-03-08 15:05:23,018 :INFO : Test Case: setup LINE-NO: 22 : Shipping/Confirmation Page: confirmed TnC
+2024-03-08 15:05:23,018 :INFO : Test Case: setup LINE-NO: 22 : Shipping/Confirmation Page: confirmed TnC
+2024-03-08 15:05:23,018 :INFO : Test Case: setup LINE-NO: 22 : Shipping/Confirmation Page: confirmed TnC
+2024-03-08 15:05:23,067 :INFO : Test Case: setup LINE-NO: 22 :Shipping/Confirmation Page: Confirmed purchase
+2024-03-08 15:05:23,067 :INFO : Test Case: setup LINE-NO: 22 :Shipping/Confirmation Page: Confirmed purchase
+2024-03-08 15:05:23,067 :INFO : Test Case: setup LINE-NO: 22 :Shipping/Confirmation Page: Confirmed purchase
